@@ -1,9 +1,9 @@
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=godka&show_icons=true&count_private=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=shiming-chen&show_icons=true&count_private=true&theme=radical" />
 
 ### Hi all
 
-I am a Ph.D. candidate in the Department of Computer Science and Technology at Tsinghua University, advised by Prof. Lifeng Sun.  
-I mainly focus on research in multimedia network streaming, including transmitting streams, overlay path construction and edge-assisted content delivery.
+I am a Ph.D. candidate in the School of Electronic Information and Communication at Huazhong University of Science and Technology, advised by Prof. Xinge You.  
+My research interests including generative modeling and learning, zero-shot learning, domain adaptation.
 
 
 
