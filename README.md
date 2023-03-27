@@ -2,8 +2,8 @@
 
 ### Hi all
 
-I am a Ph.D. candidate in the School of Electronic Information and Communication at Huazhong University of Science and Technology, advised by Prof. Xinge You.  
-My research interests including generative modeling and learning, zero-shot learning, domain adaptation.
+I am currently a Postdoctoral Research Fellow in CMU and MBZUAI, working with Prof. Kun Zhang and Mingming Gong.  
+My research interests including  zero-shot learning, generative modeling and learning, visual-and-language learning.
 
 
 
