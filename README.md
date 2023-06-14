@@ -2,7 +2,7 @@
 
 ### Hi all
 
-I am currently a Postdoctoral Research Fellow in CMU and MBZUAI, working with Prof. Kun Zhang and Mingming Gong.  
+I am currently a Postdoctoral Research Fellow.  
 My research interests including  zero-shot learning, generative modeling and learning, visual-and-language learning.
 
 
