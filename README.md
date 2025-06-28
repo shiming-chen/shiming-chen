@@ -2,7 +2,7 @@
 
 ### Hi all
 
-I am currently a Postdoctoral Research Fellow.  
+I am currently a Research Scientist.  
 My research interests including  zero-shot learning, generative modeling and learning, visual-and-language learning.
 
 
